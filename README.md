@@ -159,8 +159,7 @@ Folder Breakdown
 ###  Transaction Page
 ![Transaction Page](./screenshots/transaction.png)
 
-###  Profile Page
-![Profile Page](./screenshots/profile.png)
+
 
 
 
